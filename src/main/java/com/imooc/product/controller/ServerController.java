@@ -1,10 +1,5 @@
 package com.imooc.product.controller;
 
-/**
- * @Author 章鑫
- * @Date 2018/8/28 16:09
- */
-
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

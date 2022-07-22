@@ -1,10 +1,5 @@
 package com.imooc.product.enums;
 
-/**
- * @Author 章鑫
- * @Date 2018/8/30 15:47
- */
-
 import lombok.Getter;
 
 /**

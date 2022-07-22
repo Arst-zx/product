@@ -1,10 +1,5 @@
 package com.imooc.product.DTO;
 
-/**
- * @Author 章鑫
- * @Date 2018/8/30 15:32
- */
-
 import lombok.Data;
 
 /**

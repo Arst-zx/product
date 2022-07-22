@@ -1,7 +1,6 @@
 package com.imooc.product.dataobject;
 
 import lombok.Data;
-
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;

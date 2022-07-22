@@ -2,14 +2,12 @@ package com.imooc.product.service;
 
 import com.imooc.product.DTO.CarDTO;
 import com.imooc.product.dataobject.ProductInfo;
-
 import java.util.List;
 
 /**
  * @author 章鑫
  * @date 2018/8/23 10:27
  */
-
 public interface ProductInfoService {
 
     /**

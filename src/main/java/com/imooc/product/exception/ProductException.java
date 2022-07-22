@@ -1,10 +1,5 @@
 package com.imooc.product.exception;
 
-/**
- * @Author 章鑫
- * @Date 2018/8/30 15:43
- */
-
 import com.imooc.product.enums.ResultEnum;
 
 /**
